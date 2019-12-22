@@ -1,0 +1,7 @@
+- https://stackoverflow.com/questions/9436534/ajax-tutorial-for-post-and-get
+- https://www.w3schools.com/xml/ajax_xmlhttprequest_send.asp
+- https://www.w3schools.com/sql/
+- https://www.goodreads.com/quotes/tag/order
+- https://unsplash.com/
+- https://www.php.net/docs.php
+- https://blog.smei.org/famous-35-quotes-product/
